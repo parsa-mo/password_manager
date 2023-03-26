@@ -3,7 +3,12 @@ Simple software to save and access all your passwords in one place.
 
 Made with python and tkinter GUI.
 
-# Instructions 
+# Run
+You can use the app by running the script main.py in the app directory.
+
+You can also use the already excutable main.exe in the password_manager_app directory.
+
+# Use 
 1. Save your username and password for any platform by filling out the boxes and press add to confirm.
 2. You can view saved passwords by writing the name of the platform in the website box.
 3. Generate button, creates a random password for you and copies it to clipboard for convenience.
